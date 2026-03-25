@@ -1,0 +1,15 @@
+/* Nataly Pessoa de Paula cruz
+
+Faça um algoritmo que leia um número inteiro.
+Se o número for maior que 20. . .
+calcular e imprimir a metade dele.*/
+
+public class Exercicio1 {
+    public static void main(String[] args) {
+        int numero = 30;
+       if (numero > 20) {
+    System.out.println("Metade: " + (numero / 2.0));
+}
+    
+}
+}
